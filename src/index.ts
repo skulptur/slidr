@@ -1,2 +1,1 @@
-// tslint:disable-next-line
-console.log('hello world')
+export { createDraggableSlider, DraggableSlider } from './lib/DraggableSlider'
