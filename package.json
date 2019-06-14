@@ -1,15 +1,16 @@
 {
-  "name": "microbuild",
-  "version": "0.0.0",
-  "description": "A build setup for libraries with microbundle and jest",
+  "name": "slidr",
+  "version": "0.0.1",
+  "description": "A tiny framework-agnostic slider written in Typescript",
   "author": "Skulptur <skulptur.dev@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "microbundle",
-    "jest",
-    "build system",
-    "library",
-    "bundler"
+    "slider",
+    "slick",
+    "carousel",
+    "draggable",
+    "tween",
+    "throwprops"
   ],
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
